@@ -14,4 +14,8 @@ Instructions can be found in the game itself. Please click the "Instructions But
 
 
 ####How to Start Playing####
-You may either download a Java IDE and then build this game, or you may simply play it here on the browser. NOTE: You must have the latest download of JRE (Java enviorment), and some available cache in your browser. Please refresh if it does not open the first time. 
+You may either download a Java IDE and then build this game to play it.
+
+
+#####See Screenshots and Video of this Game####
+If you want to See Screenshots and Video of this Game, please visit my website at Ece.uwaterloo.ca/~zu2syed, or simply click the link at my profile. 
