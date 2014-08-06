@@ -18,4 +18,4 @@ You may either download a Java IDE and then build this game to play it.
 
 
 #####See Screenshots and Video of this Game####
-If you want to See Screenshots and Video of this Game, please visit my website at Ece.uwaterloo.ca/~zu2syed, or simply click the link at my profile. 
+If you want to See Screenshots and Video of this Game, please visit my <a href="https://ece.uwaterloo.ca/~zu2syed/projects.html#zombie_apocalypse">Personal Website</a>
